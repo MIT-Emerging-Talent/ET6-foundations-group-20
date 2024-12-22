@@ -13,8 +13,9 @@ ______________________________________________________________________
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion | | --- | :-: | ----------------------- |
-| | | |
+| Day  | How | The topic of discussion   |
+|:-----|:---:|:-------------------------:|
+|      |     |                           |
 
 ## Communication Channels
 
@@ -31,9 +32,9 @@ ______________________________________________________________________
 
 ### Availability for calling/messaging
 
-| Day | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | |
------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
-| _name_ | | | | | | | |
+| Day       | Monday | Tuesday | Wednesday | Thursday | Friday |Saturday | Sunday|
+|-----------|:------:|:-------:|:---------:|:--------:|:------:|:--------:|:------:|
+| _name_    |Az. Azizi|Az. Azizi|Az. Azizi|Az. Azizi|Az. Azizi|Az. Azizi|Az. Azizi|
 
 ### How many hours everyone has per day
 
