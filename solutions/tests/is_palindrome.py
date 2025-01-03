@@ -1,5 +1,6 @@
 import unittest
-from solutions.is_palindrome import Solution 
+from solutions.is_palindrome import Solution
+
 
 class TestIsPalindrome(unittest.TestCase):
     def setUp(self):
@@ -17,5 +18,6 @@ class TestIsPalindrome(unittest.TestCase):
     def test_single_digit(self):
         self.assertTrue(self.solution.is_palindrome(7))
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     unittest.main()
