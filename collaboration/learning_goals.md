@@ -52,10 +52,10 @@
 
 ### Nagham's objectives
 
-| **Goal**                           | **Description**                                  | **Progress** |  
-|------------------------------------|--------------------------------------------------|--------------|  
-| 🔍Strengthen Algorithmic Thinking  | Improve problem-solving with efficient algorithms | Ongoing      |  
-| 🛠️Master Git and GitHub  |  Master version control and teamwork | Ongoing      |  
-| 💻Refine Coding Practices | Write clean, efficient, and well-documented code | Ongoing      |  
+| **Goal**                           | **Description** | **Progress** |  
+|------------------------------------|-----------------|--------------|  
+| 🔍Strengthen Algorithmic Thinking  | Improve problem-solving  | Ongoing|  
+| 🛠️Master Git and GitHub  |  Master version control and teamwork | Ongoing|  
+| 💻Refine Coding Practices | Write cleanand well-documented code | Ongoing|  
 
 ### Nilson's objectives
